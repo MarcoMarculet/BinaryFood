@@ -2,6 +2,6 @@ package com.binaryfood.main;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello BinaryFood");
+        System.out.println("Hello");
     }
 }
